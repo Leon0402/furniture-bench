@@ -26,7 +26,7 @@ from pathlib import Path
 
 import torch
 import cv2
-import gym
+import gymnasium as gym
 import numpy as np
 
 import furniture_bench.utils.transform as T
